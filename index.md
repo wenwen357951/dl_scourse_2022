@@ -7,7 +7,7 @@ For doing the hands-on part, we recommend to use colab (you might need a google 
 
 Please make sure that we can one the following notebook before the course:
 * If colab check if the following link works and that you can execute the code  [https://colab.research.google.com/github/oduerr/dl_scourse_2022/blob/main/notebooks/00_Checking_Correct_Installation.ipynb](https://colab.research.google.com/github/oduerr/dl_scourse_2022/blob/main/notebooks/00_Checking_Correct_Installation.ipynb)
-* If you use anaconda or docker check that you can execute the notebook `00_Checking_Correct_Installation`  in (00_Checking_Correct_Installation)(https://github.com/tensorchiefs/dl_scourse_2022/notebooks)[https://github.com/tensorchiefs/dl_scourse_2022/notebooks]
+* If you use anaconda or docker check that you can execute the notebook `00_Checking_Correct_Installation` in (https://github.com/tensorchiefs/dl_scourse_2022/notebooks)[https://github.com/tensorchiefs/dl_scourse_2022/notebooks]
 
 To easily follow the course please make sure that you are familiar with the some [basic math and python skills](prerequistites.md). 
 
