@@ -7,7 +7,7 @@ For doing the hands-on part, we recommend to use colab (you might need a google 
 
 Please make sure that we can one the following notebook before the course:
 * If colab check if the following link works and that you can execute the code  [https://colab.research.google.com/github/oduerr/dl_scourse_2022/blob/main/notebooks/00_Checking_Correct_Installation.ipynb](https://colab.research.google.com/github/oduerr/dl_scourse_2022/blob/main/notebooks/00_Checking_Correct_Installation.ipynb)
-* If you use anaconda or docker check that you can execute the notebook `00_Checking_Correct_Installation` in https://github.com/oduerr/dl_scourse_2022/notebooks
+* If you use anaconda or docker check that you can execute the notebook `00_Checking_Correct_Installation` in [https://github.com/oduerr/dl_scourse_2022/notebooks](https://github.com/oduerr/dl_scourse_2022/tree/main/notebooks)
 
 To easily follow the course please make sure that you are familiar with the some [basic math and python skills](prerequistites.md). 
 
@@ -30,20 +30,22 @@ This course a short version of a to several courses given together with Beate Si
 ## Dates 
 The course is structured in 4 sessions (and a presentation), each 4 lectures long. Sometimes a session is lectured on two different days. 
 ### Week 1 (12 h / 3 Sessions)
-* Mon  7 Nov 15:50-17:40 (2h)
-* Tue  8 Nov 12:50-14:40 (2h)
-* Wed  9 Nov 12:50-16:40 (4h)
-* Thu 10 Nov 14:40-17:40 (4h)
+* Mon  7 Nov 15:50-17:40 (2h) Session 1 (first half)
+* Tue  8 Nov 12:50-14:40 (2h) Session 2 (second half)
+* Wed  9 Nov 12:50-16:40 (4h) Session 2
+* Thu 10 Nov 14:40-17:40 (4h) Session 3
 
 ### Week 1 (4 h / 1 Sessions and Presentation)
-* Mon 14 Nov 15:50-17:40 (2h)
-* Tue 15 Nov 12:50-14:40 (2h)
+* Mon 14 Nov 15:50-17:40 (2h) Session 4
+* Tue 15 Nov 12:50-14:40 (2h) Session 4
 * Thu 15 Nov 12:50-14:40 (2h) Presentation
 
 
 ## Syllabus (might change during course).
 ### Session 1 
 * Topics: Introduction, Fully Connected Networks, Keras 
-* Slides [01_Introduction.pdf](https://github.com/tensorchiefs/dl_scourse_2022/blob/master/slides/01_Introduction.pdf)
-## Notebooks: 01_simple_forward_pass, 02_fcnn_with_banknote, 
+* Slides Not updated yet [01_Introduction.pdf](https://github.com/tensorchiefs/dl_scourse_2022/blob/master/slides/01_Introduction.pdf)
+* Notebooks: 01_simple_forward_pass, 02_fcnn_with_banknote 
+
+### Session 2 
 
