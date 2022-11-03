@@ -3,7 +3,7 @@
 
 This course in deep learning focuses on practical aspects of deep learning. We therefore use jupyter notebooks, in the course. 
 
-For doing the hands-on part, we recommend to use colab (you might need a google account) an internet connections is needed. If you want to do it without internet connection on your own computer you can either install anaconda ([details and installation instruction](anaconda.md)) or use the provided a docker container ([details and installation instruction](docker.md)).
+For doing the hands-on part, we recommend to use colab (you might need a google account) an internet connections is needed. If you want to do it without internet connection on your own computer you can either install anaconda ([details and installation instruction](anaconda.md)) or use the provided docker container ([details and installation instruction](docker.md)).
 
 Please make sure that we can one the following notebook before the course:
 * If colab check if the following link works and that you can execute the code  [https://colab.research.google.com/github/oduerr/dl_scourse_2022/blob/main/notebooks/00_Checking_Correct_Installation.ipynb](https://colab.research.google.com/github/oduerr/dl_scourse_2022/blob/main/notebooks/00_Checking_Correct_Installation.ipynb)
