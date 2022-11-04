@@ -1,6 +1,6 @@
 
 # Deep Learning (Short)
-## Short Course in Deep 2022 given at STUTS, Taiwan 
+## Short Course in Deep Learning given in fall 2022 at STUTS, Taiwan 
 
 This course in deep learning focuses on practical aspects of deep learning. We therefore use jupyter notebooks, in the course. 
 
