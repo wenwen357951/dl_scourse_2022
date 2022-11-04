@@ -1,5 +1,6 @@
 
-# Deep Learning (Short Course 2022 at STUTS, Taiwan) 
+# Deep Learning (Short)
+## Short Course in Deep 2022 given at STUTS, Taiwan 
 
 This course in deep learning focuses on practical aspects of deep learning. We therefore use jupyter notebooks, in the course. 
 
@@ -30,23 +31,25 @@ This course a short version of a course designed and given together with Beate S
 * Another applied course in DL: [TensorFlow and Deep Learning without a PhD](https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd)
 
 ## Dates 
-The course is structured in 4 sessions (and a presentation), each 4 lectures long. Sometimes a session is lectured on two different days. 
+The course is structured in 4 sessions (blocks) and a presentation, each is 4 hourse long. Sometimes a session is lectured on two different days. 
 ### Week 1 (12 h / 3 Sessions)
 * Mon  7 Nov 15:50-17:40 (2h) Session 1 (first half)
 * Tue  8 Nov 12:50-14:40 (2h) Session 1 (second half)
 * Wed  9 Nov 12:50-16:40 (4h) Session 2
 * Thu 10 Nov 14:40-17:40 (4h) Session 3
 
-### Week 1 (4 h / 1 Sessions and Presentation)
-* Mon 14 Nov 15:50-17:40 (2h) Session 4
-* Tue 15 Nov 12:50-14:40 (2h) Session 4
+### Week 2 (4 h / 1 Session and Presentation)
+* Mon 14 Nov 15:50-17:40 (2h) Session 4 (first half)
+* Tue 15 Nov 12:50-14:40 (2h) Session 4 (second half)
 * Thu 15 Nov 12:50-14:40 (2h) Presentation
 
 
 ## Syllabus (might change during course).
 ### Session 1 (Introduction, Fully Connected Networks, Keras) 
-* Slides Not updated yet [01_Introduction.pdf](https://github.com/tensorchiefs/dl_scourse_2022/blob/master/slides/01_Introduction.pdf)
-* Notebooks: 01_simple_forward_pass, 02_fcnn_with_banknote 
+* Slides [01_Introduction.pdf](https://github.com/oduerr/dl_scourse_2022/blob/master/slides/01_Introduction.pdf)
+* [Notebooks](https://github.com/oduerr/dl_scourse_2022/tree/main/notebooks): 
+  * 01_simple_forward_pass
+  * 02_fcnn_with_banknote 
 
 ### Session 2 (Convolutional neural networks)
 
