@@ -47,6 +47,10 @@ The course is structured in 4 sessions (blocks) and a presentation, each is 4 ho
 ## Syllabus (might change during course).
 ### Session 1 (Introduction, Fully Connected Networks, Keras) 
 * Slides [01_Introduction.pdf](https://github.com/oduerr/dl_scourse_2022/blob/master/slides/01_Introduction.pdf)
+	* AI, Deeplearing
+	* First Network (untrained and with numpy)
+	* Hidden Layers for non-linear decision boundaries
+	* Loss functions and simple networks for classification (softmax and categorical cross entropy) 
 * [Notebooks](https://github.com/oduerr/dl_scourse_2022/tree/main/notebooks): 
   * 01_simple_forward_pass
   * 02_fcnn_with_banknote 
