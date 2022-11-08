@@ -50,14 +50,19 @@ The course is structured in 4 sessions (blocks) and a presentation, each is 4 ho
 	* AI, Deeplearing
 	* First Network (untrained and with numpy)
 	* Hidden Layers for non-linear decision boundaries
-	* Loss functions and simple networks for classification (softmax and categorical cross entropy) 
+	* Loss functions and simple networks for classification (softmax and categorical cross entropy)
+	* Gradient Descent
+	* Keras  
 * [Notebooks](https://github.com/oduerr/dl_scourse_2022/tree/main/notebooks): 
   * 01_simple_forward_pass
   * 02_fcnn_with_banknote 
 
 ### Session 2 (Convolutional neural networks)
+* Slides [02_fcNN_CNN.pdf](https://github.com/oduerr/dl_scourse_2022/blob/master/slides/02_fcNN_CNN.pdf)
+* [Notebooks](https://github.com/oduerr/dl_scourse_2022/tree/main/notebooks): 
+	* 03
+	* 04 
 
-## Notebooks
 
 The notebooks can be found at
 * [https://github.com/oduerr/dl_scourse_2022/notebooks](https://github.com/oduerr/dl_scourse_2022/tree/main/notebooks). 
