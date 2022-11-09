@@ -60,9 +60,12 @@ The course is structured in 4 sessions (blocks) and a presentation, each is 4 ho
 ### Session 2 (Convolutional neural networks)
 * Slides [02_fcNN_CNN.pdf](https://github.com/oduerr/dl_scourse_2022/blob/master/slides/02_fcNN_CNN.pdf)
 * [Notebooks](https://github.com/oduerr/dl_scourse_2022/tree/main/notebooks): 
-	* 03
-	* 04 
+	* 03_fcnn_mnist (compare different models, relu)
+	* 04_fcnn_mnist_shuffled 
+	* 05_cnn_edge_lover (principle idea of convolutions)
+	* 06_cnn_mnist_shuffled (a first complete CNN, effect of shuffeling)
 
+### Session 3 (Tricks of the trade / sequence data)
 
 The notebooks can be found at
 * [https://github.com/oduerr/dl_scourse_2022/notebooks](https://github.com/oduerr/dl_scourse_2022/tree/main/notebooks). 
