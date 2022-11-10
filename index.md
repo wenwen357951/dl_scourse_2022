@@ -36,7 +36,7 @@ The course is structured in 4 sessions (blocks) and a presentation, each is 4 ho
 * Mon  7 Nov 15:50-17:40 (2h) Session 1 (first half)
 * Tue  8 Nov 12:50-14:40 (2h) Session 1 (second half)
 * Wed  9 Nov 12:50-16:40 (4h) Session 2
-* Thu 10 Nov 14:40-17:40 (4h) Session 3
+* Thu 10 Nov 12:50-16:40 (4h) Session 3
 
 ### Week 2 (4 h / 1 Session and Presentation)
 * Mon 14 Nov 15:50-17:40 (2h) Session 4 (first half)
@@ -66,6 +66,11 @@ The course is structured in 4 sessions (blocks) and a presentation, each is 4 ho
 	* 06_cnn_mnist_shuffled (a first complete CNN, effect of shuffeling)
 
 ### Session 3 (Tricks of the trade / sequence data)
+* Slides [03_CNN.pdf](https://github.com/oduerr/dl_scourse_2022/blob/master/slides/03_CNN.pdf)
+* [Notebooks](https://github.com/oduerr/dl_scourse_2022/tree/main/notebooks):
+	* 08_cifar10_tricks 
+	* 09_1DConv
+
 
 The notebooks can be found at
 * [https://github.com/oduerr/dl_scourse_2022/notebooks](https://github.com/oduerr/dl_scourse_2022/tree/main/notebooks). 
