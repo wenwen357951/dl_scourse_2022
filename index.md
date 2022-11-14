@@ -71,6 +71,10 @@ The course is structured in 4 sessions (blocks) and a presentation, each is 4 ho
 	* 08_cifar10_tricks 
 	* 09_1DConv
 
+### Session 4 (Mathematical Details / Probabilistic Interpretation)
+* Slides [04_CNN.pdf](https://github.com/oduerr/dl_scourse_2022/blob/master/slides/04_Details.pdf)
+
+
 
 The notebooks can be found at
 * [https://github.com/oduerr/dl_scourse_2022/notebooks](https://github.com/oduerr/dl_scourse_2022/tree/main/notebooks). 
