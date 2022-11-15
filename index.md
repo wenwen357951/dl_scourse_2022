@@ -41,7 +41,7 @@ The course is structured in 4 sessions (blocks) and a presentation, each is 4 ho
 ### Week 2 (4 h / 1 Session and Presentation)
 * Mon 14 Nov 15:50-17:40 (2h) Session 4 (first half)
 * Tue 15 Nov 12:50-14:40 (2h) Session 4 (second half)
-* Thu 15 Nov 12:50-14:40 (2h) Presentation
+* Thu 17 Nov 12:50-14:40 (2h) Presentation
 
 
 ## Syllabus (might change during course).
@@ -59,6 +59,9 @@ The course is structured in 4 sessions (blocks) and a presentation, each is 4 ho
 
 ### Session 2 (Convolutional neural networks)
 * Slides [02_fcNN_CNN.pdf](https://github.com/oduerr/dl_scourse_2022/blob/master/slides/02_fcNN_CNN.pdf)
+	* Overfitting / Splitting intro training and validation data
+	* Shortcommings of FcNN for image classification
+	* Convolution and max pooling layeres
 * [Notebooks](https://github.com/oduerr/dl_scourse_2022/tree/main/notebooks): 
 	* 03_fcnn_mnist (compare different models, relu)
 	* 04_fcnn_mnist_shuffled 
@@ -67,14 +70,20 @@ The course is structured in 4 sessions (blocks) and a presentation, each is 4 ho
 
 ### Session 3 (Tricks of the trade / sequence data)
 * Slides [03_CNN.pdf](https://github.com/oduerr/dl_scourse_2022/blob/master/slides/03_CNN.pdf)
+    * 1D Causal Convolutional layers / dilated convolutions
+    * Batch normalization
+    * Dropout in Training
+    * Successful architectures
+    * Transfer learning
 * [Notebooks](https://github.com/oduerr/dl_scourse_2022/tree/main/notebooks):
 	* 08_cifar10_tricks 
 	* 09_1DConv
 
 ### Session 4 (Mathematical Details / Probabilistic Interpretation)
 * Slides [04_CNN.pdf](https://github.com/oduerr/dl_scourse_2022/blob/master/slides/04_Details.pdf)
-
-
+    * The computational graph 
+    * Backpropagation in the computational graph
+    * An outlook to probabilistic deep learning
 
 The notebooks can be found at
 * [https://github.com/oduerr/dl_scourse_2022/notebooks](https://github.com/oduerr/dl_scourse_2022/tree/main/notebooks). 
